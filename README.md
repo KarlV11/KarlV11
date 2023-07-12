@@ -3,7 +3,7 @@ I'm currently learning for being Full-Stack Developer.
 
 Check my resume right :point_right: [Here](https://app.enhancv.com/share/73e050e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-Check my training project :point_right: [Formatik](https://www.formatik.app)!
+Check my training project :point_right: [Formatik](https://www.formatik.app)
 
 
 ## 🌐 Socials:
