@@ -2,7 +2,7 @@
 I'm currently learning for being Full-Stack Developer.
 
 Check my project Formatik here => www.formatik.app
-Check my resume what here => https://app.enhancv.com/share/73e050e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+Check my resume what here => <a src="https://app.enhancv.com/share/73e050e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My resume</a>
 
 
 ## 🌐 Socials:
