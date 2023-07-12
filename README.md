@@ -3,6 +3,8 @@ I'm currently learning for being Full-Stack Developer.
 
 Check my resume right :point_right: [Here](https://app.enhancv.com/share/73e050e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
+Check my portfolio :point_right: [Here](https://www.notion.so/Karl-Vandenabeele-1b5fff349e56451f83c4b9ca6fa8f099?pvs=4)
+
 Check my training project :point_right: [Formatik](https://www.formatik.app)
 
 
